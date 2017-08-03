@@ -1,0 +1,234 @@
+C:\Users\ksisnero\documents\visual studio 2015\Projects\SignatureProject\SignatureProject\bin\Debug\SignatureProject.exe.config
+C:\Users\ksisnero\documents\visual studio 2015\Projects\SignatureProject\SignatureProject\bin\Debug\SignatureProject.exe
+C:\Users\ksisnero\documents\visual studio 2015\Projects\SignatureProject\SignatureProject\bin\Debug\SignatureProject.pdb
+C:\Users\ksisnero\documents\visual studio 2015\Projects\SignatureProject\SignatureProject\bin\Debug\DevExpress.Mvvm.v16.1.dll
+C:\Users\ksisnero\documents\visual studio 2015\Projects\SignatureProject\SignatureProject\bin\Debug\DevExpress.Xpf.Core.v16.1.dll
+C:\Users\ksisnero\documents\visual studio 2015\Projects\SignatureProject\SignatureProject\bin\Debug\DevExpress.Xpf.Core.v16.1.Extensions.dll
+C:\Users\ksisnero\documents\visual studio 2015\Projects\SignatureProject\SignatureProject\bin\Debug\DevExpress.Xpf.DataAccess.v16.1.dll
+C:\Users\ksisnero\documents\visual studio 2015\Projects\SignatureProject\SignatureProject\bin\Debug\DevExpress.Data.v16.1.dll
+C:\Users\ksisnero\documents\visual studio 2015\Projects\SignatureProject\SignatureProject\bin\Debug\DevExpress.Printing.v16.1.Core.dll
+C:\Users\ksisnero\documents\visual studio 2015\Projects\SignatureProject\SignatureProject\bin\Debug\DevExpress.CodeParser.v16.1.dll
+C:\Users\ksisnero\documents\visual studio 2015\Projects\SignatureProject\SignatureProject\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\ksisnero\documents\visual studio 2015\Projects\SignatureProject\SignatureProject\bin\Debug\DevExpress.DataAccess.v16.1.dll
+C:\Users\ksisnero\documents\visual studio 2015\Projects\SignatureProject\SignatureProject\bin\Debug\DevExpress.Xpo.v16.1.dll
+C:\Users\ksisnero\documents\visual studio 2015\Projects\SignatureProject\SignatureProject\bin\Debug\DevExpress.Xpf.Grid.v16.1.dll
+C:\Users\ksisnero\documents\visual studio 2015\Projects\SignatureProject\SignatureProject\bin\Debug\DevExpress.Xpf.Grid.v16.1.Core.dll
+C:\Users\ksisnero\documents\visual studio 2015\Projects\SignatureProject\SignatureProject\bin\Debug\DevExpress.Xpf.PropertyGrid.v16.1.dll
+C:\Users\ksisnero\documents\visual studio 2015\Projects\SignatureProject\SignatureProject\bin\Debug\DevExpress.Xpf.Controls.v16.1.dll
+C:\Users\ksisnero\documents\visual studio 2015\Projects\SignatureProject\SignatureProject\bin\Debug\DevExpress.Pdf.v16.1.Core.dll
+C:\Users\ksisnero\documents\visual studio 2015\Projects\SignatureProject\SignatureProject\bin\Debug\DevExpress.Mvvm.v16.1.xml
+C:\Users\ksisnero\documents\visual studio 2015\Projects\SignatureProject\SignatureProject\bin\Debug\DevExpress.Xpf.Core.v16.1.xml
+C:\Users\ksisnero\documents\visual studio 2015\Projects\SignatureProject\SignatureProject\bin\Debug\DevExpress.Data.v16.1.xml
+C:\Users\ksisnero\documents\visual studio 2015\Projects\SignatureProject\SignatureProject\bin\Debug\DevExpress.Printing.v16.1.Core.xml
+C:\Users\ksisnero\documents\visual studio 2015\Projects\SignatureProject\SignatureProject\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\ksisnero\documents\visual studio 2015\Projects\SignatureProject\SignatureProject\bin\Debug\DevExpress.DataAccess.v16.1.xml
+C:\Users\ksisnero\documents\visual studio 2015\Projects\SignatureProject\SignatureProject\bin\Debug\DevExpress.Xpo.v16.1.xml
+C:\Users\ksisnero\documents\visual studio 2015\Projects\SignatureProject\SignatureProject\bin\Debug\DevExpress.Xpf.Grid.v16.1.xml
+C:\Users\ksisnero\documents\visual studio 2015\Projects\SignatureProject\SignatureProject\bin\Debug\DevExpress.Xpf.Grid.v16.1.Core.xml
+C:\Users\ksisnero\documents\visual studio 2015\Projects\SignatureProject\SignatureProject\bin\Debug\DevExpress.Xpf.PropertyGrid.v16.1.xml
+C:\Users\ksisnero\documents\visual studio 2015\Projects\SignatureProject\SignatureProject\bin\Debug\DevExpress.Xpf.Controls.v16.1.xml
+C:\Users\ksisnero\documents\visual studio 2015\Projects\SignatureProject\SignatureProject\bin\Debug\DevExpress.Pdf.v16.1.Core.xml
+C:\Users\ksisnero\documents\visual studio 2015\Projects\SignatureProject\SignatureProject\bin\Debug\de\DevExpress.Xpf.Core.v16.1.resources.dll
+C:\Users\ksisnero\documents\visual studio 2015\Projects\SignatureProject\SignatureProject\bin\Debug\es\DevExpress.Xpf.Core.v16.1.resources.dll
+C:\Users\ksisnero\documents\visual studio 2015\Projects\SignatureProject\SignatureProject\bin\Debug\ja\DevExpress.Xpf.Core.v16.1.resources.dll
+C:\Users\ksisnero\documents\visual studio 2015\Projects\SignatureProject\SignatureProject\bin\Debug\ru\DevExpress.Xpf.Core.v16.1.resources.dll
+C:\Users\ksisnero\documents\visual studio 2015\Projects\SignatureProject\SignatureProject\bin\Debug\de\DevExpress.Data.v16.1.resources.dll
+C:\Users\ksisnero\documents\visual studio 2015\Projects\SignatureProject\SignatureProject\bin\Debug\es\DevExpress.Data.v16.1.resources.dll
+C:\Users\ksisnero\documents\visual studio 2015\Projects\SignatureProject\SignatureProject\bin\Debug\ja\DevExpress.Data.v16.1.resources.dll
+C:\Users\ksisnero\documents\visual studio 2015\Projects\SignatureProject\SignatureProject\bin\Debug\ru\DevExpress.Data.v16.1.resources.dll
+C:\Users\ksisnero\documents\visual studio 2015\Projects\SignatureProject\SignatureProject\bin\Debug\de\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\ksisnero\documents\visual studio 2015\Projects\SignatureProject\SignatureProject\bin\Debug\es\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\ksisnero\documents\visual studio 2015\Projects\SignatureProject\SignatureProject\bin\Debug\ja\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\ksisnero\documents\visual studio 2015\Projects\SignatureProject\SignatureProject\bin\Debug\ru\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\ksisnero\documents\visual studio 2015\Projects\SignatureProject\SignatureProject\bin\Debug\de\DevExpress.DataAccess.v16.1.resources.dll
+C:\Users\ksisnero\documents\visual studio 2015\Projects\SignatureProject\SignatureProject\bin\Debug\es\DevExpress.DataAccess.v16.1.resources.dll
+C:\Users\ksisnero\documents\visual studio 2015\Projects\SignatureProject\SignatureProject\bin\Debug\ja\DevExpress.DataAccess.v16.1.resources.dll
+C:\Users\ksisnero\documents\visual studio 2015\Projects\SignatureProject\SignatureProject\bin\Debug\ru\DevExpress.DataAccess.v16.1.resources.dll
+C:\Users\ksisnero\documents\visual studio 2015\Projects\SignatureProject\SignatureProject\bin\Debug\de\DevExpress.Xpo.v16.1.resources.dll
+C:\Users\ksisnero\documents\visual studio 2015\Projects\SignatureProject\SignatureProject\bin\Debug\es\DevExpress.Xpo.v16.1.resources.dll
+C:\Users\ksisnero\documents\visual studio 2015\Projects\SignatureProject\SignatureProject\bin\Debug\ja\DevExpress.Xpo.v16.1.resources.dll
+C:\Users\ksisnero\documents\visual studio 2015\Projects\SignatureProject\SignatureProject\bin\Debug\ru\DevExpress.Xpo.v16.1.resources.dll
+C:\Users\ksisnero\documents\visual studio 2015\Projects\SignatureProject\SignatureProject\bin\Debug\de\DevExpress.Xpf.Grid.v16.1.Core.resources.dll
+C:\Users\ksisnero\documents\visual studio 2015\Projects\SignatureProject\SignatureProject\bin\Debug\es\DevExpress.Xpf.Grid.v16.1.Core.resources.dll
+C:\Users\ksisnero\documents\visual studio 2015\Projects\SignatureProject\SignatureProject\bin\Debug\ja\DevExpress.Xpf.Grid.v16.1.Core.resources.dll
+C:\Users\ksisnero\documents\visual studio 2015\Projects\SignatureProject\SignatureProject\bin\Debug\ru\DevExpress.Xpf.Grid.v16.1.Core.resources.dll
+C:\Users\ksisnero\documents\visual studio 2015\Projects\SignatureProject\SignatureProject\bin\Debug\de\DevExpress.Xpf.PropertyGrid.v16.1.resources.dll
+C:\Users\ksisnero\documents\visual studio 2015\Projects\SignatureProject\SignatureProject\bin\Debug\es\DevExpress.Xpf.PropertyGrid.v16.1.resources.dll
+C:\Users\ksisnero\documents\visual studio 2015\Projects\SignatureProject\SignatureProject\bin\Debug\ja\DevExpress.Xpf.PropertyGrid.v16.1.resources.dll
+C:\Users\ksisnero\documents\visual studio 2015\Projects\SignatureProject\SignatureProject\bin\Debug\ru\DevExpress.Xpf.PropertyGrid.v16.1.resources.dll
+C:\Users\ksisnero\documents\visual studio 2015\Projects\SignatureProject\SignatureProject\bin\Debug\de\DevExpress.Xpf.Controls.v16.1.resources.dll
+C:\Users\ksisnero\documents\visual studio 2015\Projects\SignatureProject\SignatureProject\bin\Debug\es\DevExpress.Xpf.Controls.v16.1.resources.dll
+C:\Users\ksisnero\documents\visual studio 2015\Projects\SignatureProject\SignatureProject\bin\Debug\ja\DevExpress.Xpf.Controls.v16.1.resources.dll
+C:\Users\ksisnero\documents\visual studio 2015\Projects\SignatureProject\SignatureProject\bin\Debug\ru\DevExpress.Xpf.Controls.v16.1.resources.dll
+C:\Users\ksisnero\documents\visual studio 2015\Projects\SignatureProject\SignatureProject\bin\Debug\de\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\ksisnero\documents\visual studio 2015\Projects\SignatureProject\SignatureProject\bin\Debug\es\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\ksisnero\documents\visual studio 2015\Projects\SignatureProject\SignatureProject\bin\Debug\ja\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\ksisnero\documents\visual studio 2015\Projects\SignatureProject\SignatureProject\bin\Debug\ru\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\ksisnero\documents\visual studio 2015\Projects\SignatureProject\SignatureProject\obj\Debug\MainWindow.g.cs
+C:\Users\ksisnero\documents\visual studio 2015\Projects\SignatureProject\SignatureProject\obj\Debug\App.g.cs
+C:\Users\ksisnero\documents\visual studio 2015\Projects\SignatureProject\SignatureProject\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ksisnero\documents\visual studio 2015\Projects\SignatureProject\SignatureProject\obj\Debug\SignatureProject_MarkupCompile.cache
+C:\Users\ksisnero\documents\visual studio 2015\Projects\SignatureProject\SignatureProject\obj\Debug\SignatureProject_MarkupCompile.lref
+C:\Users\ksisnero\documents\visual studio 2015\Projects\SignatureProject\SignatureProject\obj\Debug\MainWindow.baml
+C:\Users\ksisnero\documents\visual studio 2015\Projects\SignatureProject\SignatureProject\obj\Debug\SignatureProject.g.resources
+C:\Users\ksisnero\documents\visual studio 2015\Projects\SignatureProject\SignatureProject\obj\Debug\SignatureProject.Properties.Resources.resources
+C:\Users\ksisnero\documents\visual studio 2015\Projects\SignatureProject\SignatureProject\obj\Debug\SignatureProject.csproj.GenerateResource.Cache
+C:\Users\ksisnero\documents\visual studio 2015\Projects\SignatureProject\SignatureProject\obj\Debug\SignatureProject.exe
+C:\Users\ksisnero\documents\visual studio 2015\Projects\SignatureProject\SignatureProject\obj\Debug\SignatureProject.pdb
+C:\Users\ksisnero\documents\visual studio 2015\Projects\SignatureProject\SignatureProject\obj\Debug\SignatureProject.csprojResolveAssemblyReference.cache
+I:\Git\SignatureProject\SignatureProject\bin\Debug\SignatureProject.exe.config
+I:\Git\SignatureProject\SignatureProject\obj\Debug\SignatureProject.exe
+I:\Git\SignatureProject\SignatureProject\obj\Debug\SignatureProject.pdb
+I:\Git\SignatureProject\SignatureProject\bin\Debug\SignatureProject.exe
+I:\Git\SignatureProject\SignatureProject\bin\Debug\SignatureProject.pdb
+I:\Git\SignatureProject\SignatureProject\bin\Debug\DevExpress.Mvvm.v16.1.dll
+I:\Git\SignatureProject\SignatureProject\bin\Debug\DevExpress.Xpf.Core.v16.1.dll
+I:\Git\SignatureProject\SignatureProject\bin\Debug\DevExpress.Xpf.Core.v16.1.Extensions.dll
+I:\Git\SignatureProject\SignatureProject\bin\Debug\DevExpress.Xpf.DataAccess.v16.1.dll
+I:\Git\SignatureProject\SignatureProject\bin\Debug\DevExpress.Data.v16.1.dll
+I:\Git\SignatureProject\SignatureProject\bin\Debug\DevExpress.Printing.v16.1.Core.dll
+I:\Git\SignatureProject\SignatureProject\bin\Debug\DevExpress.CodeParser.v16.1.dll
+I:\Git\SignatureProject\SignatureProject\bin\Debug\System.Windows.Interactivity.dll
+I:\Git\SignatureProject\SignatureProject\bin\Debug\DevExpress.DataAccess.v16.1.dll
+I:\Git\SignatureProject\SignatureProject\bin\Debug\DevExpress.Xpo.v16.1.dll
+I:\Git\SignatureProject\SignatureProject\bin\Debug\DevExpress.Xpf.Grid.v16.1.dll
+I:\Git\SignatureProject\SignatureProject\bin\Debug\DevExpress.Xpf.Grid.v16.1.Core.dll
+I:\Git\SignatureProject\SignatureProject\bin\Debug\DevExpress.Xpf.PropertyGrid.v16.1.dll
+I:\Git\SignatureProject\SignatureProject\bin\Debug\DevExpress.Xpf.Controls.v16.1.dll
+I:\Git\SignatureProject\SignatureProject\bin\Debug\DevExpress.Pdf.v16.1.Core.dll
+I:\Git\SignatureProject\SignatureProject\bin\Debug\DevExpress.Mvvm.v16.1.xml
+I:\Git\SignatureProject\SignatureProject\bin\Debug\DevExpress.Xpf.Core.v16.1.xml
+I:\Git\SignatureProject\SignatureProject\bin\Debug\DevExpress.Data.v16.1.xml
+I:\Git\SignatureProject\SignatureProject\bin\Debug\DevExpress.Printing.v16.1.Core.xml
+I:\Git\SignatureProject\SignatureProject\bin\Debug\System.Windows.Interactivity.xml
+I:\Git\SignatureProject\SignatureProject\bin\Debug\DevExpress.DataAccess.v16.1.xml
+I:\Git\SignatureProject\SignatureProject\bin\Debug\DevExpress.Xpo.v16.1.xml
+I:\Git\SignatureProject\SignatureProject\bin\Debug\DevExpress.Xpf.Grid.v16.1.xml
+I:\Git\SignatureProject\SignatureProject\bin\Debug\DevExpress.Xpf.Grid.v16.1.Core.xml
+I:\Git\SignatureProject\SignatureProject\bin\Debug\DevExpress.Xpf.PropertyGrid.v16.1.xml
+I:\Git\SignatureProject\SignatureProject\bin\Debug\DevExpress.Xpf.Controls.v16.1.xml
+I:\Git\SignatureProject\SignatureProject\bin\Debug\DevExpress.Pdf.v16.1.Core.xml
+I:\Git\SignatureProject\SignatureProject\bin\Debug\de\DevExpress.Xpf.Core.v16.1.resources.dll
+I:\Git\SignatureProject\SignatureProject\bin\Debug\es\DevExpress.Xpf.Core.v16.1.resources.dll
+I:\Git\SignatureProject\SignatureProject\bin\Debug\ja\DevExpress.Xpf.Core.v16.1.resources.dll
+I:\Git\SignatureProject\SignatureProject\bin\Debug\ru\DevExpress.Xpf.Core.v16.1.resources.dll
+I:\Git\SignatureProject\SignatureProject\bin\Debug\de\DevExpress.Data.v16.1.resources.dll
+I:\Git\SignatureProject\SignatureProject\bin\Debug\es\DevExpress.Data.v16.1.resources.dll
+I:\Git\SignatureProject\SignatureProject\bin\Debug\ja\DevExpress.Data.v16.1.resources.dll
+I:\Git\SignatureProject\SignatureProject\bin\Debug\ru\DevExpress.Data.v16.1.resources.dll
+I:\Git\SignatureProject\SignatureProject\bin\Debug\de\DevExpress.Printing.v16.1.Core.resources.dll
+I:\Git\SignatureProject\SignatureProject\bin\Debug\es\DevExpress.Printing.v16.1.Core.resources.dll
+I:\Git\SignatureProject\SignatureProject\bin\Debug\ja\DevExpress.Printing.v16.1.Core.resources.dll
+I:\Git\SignatureProject\SignatureProject\bin\Debug\ru\DevExpress.Printing.v16.1.Core.resources.dll
+I:\Git\SignatureProject\SignatureProject\bin\Debug\de\DevExpress.DataAccess.v16.1.resources.dll
+I:\Git\SignatureProject\SignatureProject\bin\Debug\es\DevExpress.DataAccess.v16.1.resources.dll
+I:\Git\SignatureProject\SignatureProject\bin\Debug\ja\DevExpress.DataAccess.v16.1.resources.dll
+I:\Git\SignatureProject\SignatureProject\bin\Debug\ru\DevExpress.DataAccess.v16.1.resources.dll
+I:\Git\SignatureProject\SignatureProject\bin\Debug\de\DevExpress.Xpo.v16.1.resources.dll
+I:\Git\SignatureProject\SignatureProject\bin\Debug\es\DevExpress.Xpo.v16.1.resources.dll
+I:\Git\SignatureProject\SignatureProject\bin\Debug\ja\DevExpress.Xpo.v16.1.resources.dll
+I:\Git\SignatureProject\SignatureProject\bin\Debug\ru\DevExpress.Xpo.v16.1.resources.dll
+I:\Git\SignatureProject\SignatureProject\bin\Debug\de\DevExpress.Xpf.Grid.v16.1.Core.resources.dll
+I:\Git\SignatureProject\SignatureProject\bin\Debug\es\DevExpress.Xpf.Grid.v16.1.Core.resources.dll
+I:\Git\SignatureProject\SignatureProject\bin\Debug\ja\DevExpress.Xpf.Grid.v16.1.Core.resources.dll
+I:\Git\SignatureProject\SignatureProject\bin\Debug\ru\DevExpress.Xpf.Grid.v16.1.Core.resources.dll
+I:\Git\SignatureProject\SignatureProject\bin\Debug\de\DevExpress.Xpf.PropertyGrid.v16.1.resources.dll
+I:\Git\SignatureProject\SignatureProject\bin\Debug\es\DevExpress.Xpf.PropertyGrid.v16.1.resources.dll
+I:\Git\SignatureProject\SignatureProject\bin\Debug\ja\DevExpress.Xpf.PropertyGrid.v16.1.resources.dll
+I:\Git\SignatureProject\SignatureProject\bin\Debug\ru\DevExpress.Xpf.PropertyGrid.v16.1.resources.dll
+I:\Git\SignatureProject\SignatureProject\bin\Debug\de\DevExpress.Xpf.Controls.v16.1.resources.dll
+I:\Git\SignatureProject\SignatureProject\bin\Debug\es\DevExpress.Xpf.Controls.v16.1.resources.dll
+I:\Git\SignatureProject\SignatureProject\bin\Debug\ja\DevExpress.Xpf.Controls.v16.1.resources.dll
+I:\Git\SignatureProject\SignatureProject\bin\Debug\ru\DevExpress.Xpf.Controls.v16.1.resources.dll
+I:\Git\SignatureProject\SignatureProject\bin\Debug\de\DevExpress.Pdf.v16.1.Core.resources.dll
+I:\Git\SignatureProject\SignatureProject\bin\Debug\es\DevExpress.Pdf.v16.1.Core.resources.dll
+I:\Git\SignatureProject\SignatureProject\bin\Debug\ja\DevExpress.Pdf.v16.1.Core.resources.dll
+I:\Git\SignatureProject\SignatureProject\bin\Debug\ru\DevExpress.Pdf.v16.1.Core.resources.dll
+I:\Git\SignatureProject\SignatureProject\obj\Debug\SignatureProject.csprojResolveAssemblyReference.cache
+I:\Git\SignatureProject\SignatureProject\obj\Debug\MainWindow.g.cs
+I:\Git\SignatureProject\SignatureProject\obj\Debug\App.g.cs
+I:\Git\SignatureProject\SignatureProject\obj\Debug\GeneratedInternalTypeHelper.g.cs
+I:\Git\SignatureProject\SignatureProject\obj\Debug\SignatureProject_MarkupCompile.cache
+I:\Git\SignatureProject\SignatureProject\obj\Debug\SignatureProject_MarkupCompile.lref
+I:\Git\SignatureProject\SignatureProject\obj\Debug\MainWindow.baml
+I:\Git\SignatureProject\SignatureProject\obj\Debug\SignatureProject.g.resources
+I:\Git\SignatureProject\SignatureProject\obj\Debug\SignatureProject.Properties.Resources.resources
+I:\Git\SignatureProject\SignatureProject\obj\Debug\SignatureProject.csproj.GenerateResource.Cache
+J:\users\Interns\SignatureProject\SignatureProject\bin\Debug\SignatureProject.exe.config
+J:\users\Interns\SignatureProject\SignatureProject\obj\Debug\SignatureProject.exe
+J:\users\Interns\SignatureProject\SignatureProject\obj\Debug\SignatureProject.pdb
+J:\users\Interns\SignatureProject\SignatureProject\bin\Debug\SignatureProject.exe
+J:\users\Interns\SignatureProject\SignatureProject\bin\Debug\SignatureProject.pdb
+J:\users\Interns\SignatureProject\SignatureProject\bin\Debug\DevExpress.Mvvm.v16.1.dll
+J:\users\Interns\SignatureProject\SignatureProject\bin\Debug\DevExpress.Xpf.Core.v16.1.dll
+J:\users\Interns\SignatureProject\SignatureProject\bin\Debug\DevExpress.Xpf.Core.v16.1.Extensions.dll
+J:\users\Interns\SignatureProject\SignatureProject\bin\Debug\DevExpress.Xpf.DataAccess.v16.1.dll
+J:\users\Interns\SignatureProject\SignatureProject\bin\Debug\DevExpress.Data.v16.1.dll
+J:\users\Interns\SignatureProject\SignatureProject\bin\Debug\DevExpress.Printing.v16.1.Core.dll
+J:\users\Interns\SignatureProject\SignatureProject\bin\Debug\DevExpress.CodeParser.v16.1.dll
+J:\users\Interns\SignatureProject\SignatureProject\bin\Debug\System.Windows.Interactivity.dll
+J:\users\Interns\SignatureProject\SignatureProject\bin\Debug\DevExpress.DataAccess.v16.1.dll
+J:\users\Interns\SignatureProject\SignatureProject\bin\Debug\DevExpress.Xpo.v16.1.dll
+J:\users\Interns\SignatureProject\SignatureProject\bin\Debug\DevExpress.Xpf.Grid.v16.1.dll
+J:\users\Interns\SignatureProject\SignatureProject\bin\Debug\DevExpress.Xpf.Grid.v16.1.Core.dll
+J:\users\Interns\SignatureProject\SignatureProject\bin\Debug\DevExpress.Xpf.PropertyGrid.v16.1.dll
+J:\users\Interns\SignatureProject\SignatureProject\bin\Debug\DevExpress.Xpf.Controls.v16.1.dll
+J:\users\Interns\SignatureProject\SignatureProject\bin\Debug\DevExpress.Pdf.v16.1.Core.dll
+J:\users\Interns\SignatureProject\SignatureProject\bin\Debug\DevExpress.Mvvm.v16.1.xml
+J:\users\Interns\SignatureProject\SignatureProject\bin\Debug\DevExpress.Xpf.Core.v16.1.xml
+J:\users\Interns\SignatureProject\SignatureProject\bin\Debug\DevExpress.Data.v16.1.xml
+J:\users\Interns\SignatureProject\SignatureProject\bin\Debug\DevExpress.Printing.v16.1.Core.xml
+J:\users\Interns\SignatureProject\SignatureProject\bin\Debug\System.Windows.Interactivity.xml
+J:\users\Interns\SignatureProject\SignatureProject\bin\Debug\DevExpress.DataAccess.v16.1.xml
+J:\users\Interns\SignatureProject\SignatureProject\bin\Debug\DevExpress.Xpo.v16.1.xml
+J:\users\Interns\SignatureProject\SignatureProject\bin\Debug\DevExpress.Xpf.Grid.v16.1.xml
+J:\users\Interns\SignatureProject\SignatureProject\bin\Debug\DevExpress.Xpf.Grid.v16.1.Core.xml
+J:\users\Interns\SignatureProject\SignatureProject\bin\Debug\DevExpress.Xpf.PropertyGrid.v16.1.xml
+J:\users\Interns\SignatureProject\SignatureProject\bin\Debug\DevExpress.Xpf.Controls.v16.1.xml
+J:\users\Interns\SignatureProject\SignatureProject\bin\Debug\DevExpress.Pdf.v16.1.Core.xml
+J:\users\Interns\SignatureProject\SignatureProject\bin\Debug\de\DevExpress.Xpf.Core.v16.1.resources.dll
+J:\users\Interns\SignatureProject\SignatureProject\bin\Debug\es\DevExpress.Xpf.Core.v16.1.resources.dll
+J:\users\Interns\SignatureProject\SignatureProject\bin\Debug\ja\DevExpress.Xpf.Core.v16.1.resources.dll
+J:\users\Interns\SignatureProject\SignatureProject\bin\Debug\ru\DevExpress.Xpf.Core.v16.1.resources.dll
+J:\users\Interns\SignatureProject\SignatureProject\bin\Debug\de\DevExpress.Data.v16.1.resources.dll
+J:\users\Interns\SignatureProject\SignatureProject\bin\Debug\es\DevExpress.Data.v16.1.resources.dll
+J:\users\Interns\SignatureProject\SignatureProject\bin\Debug\ja\DevExpress.Data.v16.1.resources.dll
+J:\users\Interns\SignatureProject\SignatureProject\bin\Debug\ru\DevExpress.Data.v16.1.resources.dll
+J:\users\Interns\SignatureProject\SignatureProject\bin\Debug\de\DevExpress.Printing.v16.1.Core.resources.dll
+J:\users\Interns\SignatureProject\SignatureProject\bin\Debug\es\DevExpress.Printing.v16.1.Core.resources.dll
+J:\users\Interns\SignatureProject\SignatureProject\bin\Debug\ja\DevExpress.Printing.v16.1.Core.resources.dll
+J:\users\Interns\SignatureProject\SignatureProject\bin\Debug\ru\DevExpress.Printing.v16.1.Core.resources.dll
+J:\users\Interns\SignatureProject\SignatureProject\bin\Debug\de\DevExpress.DataAccess.v16.1.resources.dll
+J:\users\Interns\SignatureProject\SignatureProject\bin\Debug\es\DevExpress.DataAccess.v16.1.resources.dll
+J:\users\Interns\SignatureProject\SignatureProject\bin\Debug\ja\DevExpress.DataAccess.v16.1.resources.dll
+J:\users\Interns\SignatureProject\SignatureProject\bin\Debug\ru\DevExpress.DataAccess.v16.1.resources.dll
+J:\users\Interns\SignatureProject\SignatureProject\bin\Debug\de\DevExpress.Xpo.v16.1.resources.dll
+J:\users\Interns\SignatureProject\SignatureProject\bin\Debug\es\DevExpress.Xpo.v16.1.resources.dll
+J:\users\Interns\SignatureProject\SignatureProject\bin\Debug\ja\DevExpress.Xpo.v16.1.resources.dll
+J:\users\Interns\SignatureProject\SignatureProject\bin\Debug\ru\DevExpress.Xpo.v16.1.resources.dll
+J:\users\Interns\SignatureProject\SignatureProject\bin\Debug\de\DevExpress.Xpf.Grid.v16.1.Core.resources.dll
+J:\users\Interns\SignatureProject\SignatureProject\bin\Debug\es\DevExpress.Xpf.Grid.v16.1.Core.resources.dll
+J:\users\Interns\SignatureProject\SignatureProject\bin\Debug\ja\DevExpress.Xpf.Grid.v16.1.Core.resources.dll
+J:\users\Interns\SignatureProject\SignatureProject\bin\Debug\ru\DevExpress.Xpf.Grid.v16.1.Core.resources.dll
+J:\users\Interns\SignatureProject\SignatureProject\bin\Debug\de\DevExpress.Xpf.PropertyGrid.v16.1.resources.dll
+J:\users\Interns\SignatureProject\SignatureProject\bin\Debug\es\DevExpress.Xpf.PropertyGrid.v16.1.resources.dll
+J:\users\Interns\SignatureProject\SignatureProject\bin\Debug\ja\DevExpress.Xpf.PropertyGrid.v16.1.resources.dll
+J:\users\Interns\SignatureProject\SignatureProject\bin\Debug\ru\DevExpress.Xpf.PropertyGrid.v16.1.resources.dll
+J:\users\Interns\SignatureProject\SignatureProject\bin\Debug\de\DevExpress.Xpf.Controls.v16.1.resources.dll
+J:\users\Interns\SignatureProject\SignatureProject\bin\Debug\es\DevExpress.Xpf.Controls.v16.1.resources.dll
+J:\users\Interns\SignatureProject\SignatureProject\bin\Debug\ja\DevExpress.Xpf.Controls.v16.1.resources.dll
+J:\users\Interns\SignatureProject\SignatureProject\bin\Debug\ru\DevExpress.Xpf.Controls.v16.1.resources.dll
+J:\users\Interns\SignatureProject\SignatureProject\bin\Debug\de\DevExpress.Pdf.v16.1.Core.resources.dll
+J:\users\Interns\SignatureProject\SignatureProject\bin\Debug\es\DevExpress.Pdf.v16.1.Core.resources.dll
+J:\users\Interns\SignatureProject\SignatureProject\bin\Debug\ja\DevExpress.Pdf.v16.1.Core.resources.dll
+J:\users\Interns\SignatureProject\SignatureProject\bin\Debug\ru\DevExpress.Pdf.v16.1.Core.resources.dll
+J:\users\Interns\SignatureProject\SignatureProject\obj\Debug\SignatureProject.csprojResolveAssemblyReference.cache
+J:\users\Interns\SignatureProject\SignatureProject\obj\Debug\MainWindow.g.cs
+J:\users\Interns\SignatureProject\SignatureProject\obj\Debug\App.g.cs
+J:\users\Interns\SignatureProject\SignatureProject\obj\Debug\GeneratedInternalTypeHelper.g.cs
+J:\users\Interns\SignatureProject\SignatureProject\obj\Debug\SignatureProject_MarkupCompile.cache
+J:\users\Interns\SignatureProject\SignatureProject\obj\Debug\SignatureProject_MarkupCompile.lref
+J:\users\Interns\SignatureProject\SignatureProject\obj\Debug\MainWindow.baml
+J:\users\Interns\SignatureProject\SignatureProject\obj\Debug\SignatureProject.g.resources
+J:\users\Interns\SignatureProject\SignatureProject\obj\Debug\SignatureProject.Properties.Resources.resources
+J:\users\Interns\SignatureProject\SignatureProject\obj\Debug\SignatureProject.csproj.GenerateResource.Cache

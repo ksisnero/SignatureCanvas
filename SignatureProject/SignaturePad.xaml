@@ -1,0 +1,17 @@
+﻿<Window x:Class="SignatureProject.MainWindow" mc:Ignorable="d" Title="MainWindow" Height="300" Width="525" 
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+    xmlns:local="clr-namespace:SignatureProject"
+    xmlns:dxmvvm="http://schemas.devexpress.com/winfx/2008/xaml/mvvm" 
+    DataContext="{dxmvvm:ViewModelSource Type={x:Type local:MainViewModel}}">
+
+    <Grid>
+        <Button x:Name="Clear" Content="Clear" HorizontalAlignment="Left" Height="22" VerticalAlignment="Top" Width="73" Margin="131,228,0,0" Command="{Binding ClearCommand}" />
+        <Button x:Name="PlaceSignature" Content="Save Signature" HorizontalAlignment="Left" Margin="10,228,0,0" VerticalAlignment="Top" Width="116" Command="{Binding ConvertToBitmapCommand}"/>
+        <TextBlock x:Name="TextBlock" HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap" Text="Signature:" VerticalAlignment="Top" FontFamily="Segoe UI Light" FontSize="18" Height="24" Width="75" />
+        <InkCanvas x:Name="Ink" Margin="0,39,0,46" Strokes="{Binding Signature}" EditingModeInverted="InkAndGesture" Background="White"/>
+        <Rectangle HorizontalAlignment="Left" Height="1" Margin="10,178,0,0" Stroke="Black" VerticalAlignment="Top" Width="484" />
+    </Grid>
+</Window>
